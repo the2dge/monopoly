@@ -153,6 +153,7 @@ body {
     background-image: url(fruitlife.jpg);
     background-position: right;
     background-repeat: no-repeat;
+    background-size: contain;
     position: absolute;
     top: 200px;
     width: 500px;
